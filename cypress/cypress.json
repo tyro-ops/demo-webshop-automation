@@ -1,0 +1,7 @@
+{
+    "baseUrl": "http://demowebshop.tricentis.com",
+    "defaultCommandTimeout": 8000,
+    "viewportWidth": 1280,
+    "viewportHeight": 720
+  }
+  
